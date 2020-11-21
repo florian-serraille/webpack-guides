@@ -1,0 +1,1 @@
+This project follow the Webpack guide available at https://webpack.js.org/guides/
