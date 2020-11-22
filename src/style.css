@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'RINGM___';
+  src: url('./RINGM___.TTF') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+
+.hello {
+    display: block;
+    font-size: x-large;
+    color: rgb(90, 69, 46);
+    font-family: 'RINGM___';
+}
