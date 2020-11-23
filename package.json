@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "watch": "webpack --watch",
-    "start": "webpack serve --open",
+    "start": "webpack serve --open 'google-chrome'",
     "server": "node server.js",
     "build": "webpack"
   },
